@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "ui";
-import "./App.css";
+import './App.css';
 
 function Test() {
   
